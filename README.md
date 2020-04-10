@@ -1,6 +1,6 @@
 Top 100 Llibres més venuts a Amazon
 
-L'objectiu de la pràctica es obtenir informació sobre els 100 llibres més venuts a Amazon i obtenir les seves reviews, 
+L'objectiu de la pràctica és obtenir informació sobre els 100 llibres més venuts a Amazon i obtenir les seves reviews, 
 per a observar quines son les preferencies dels ciutadans durant el confinament.
 
 Amazon és una empresa de compra online que va començar la seva expansió especialitzant-se en la venda de llibres. A la seva pagina web apareixen classificacions dels productes més venuts per tipus. A més, cada producte té una pagina propia on s'ofereix més informació i apareixen valoracions i comentaris dels usuaris   
