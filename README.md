@@ -1,6 +1,4 @@
-amazon_scraper
-
-Llibres Amazon
+Top 100 Llibres més venuts a Amazon
 
 L'objectiu de la pràctica es obtenir informació sobre els 100 llibres més venuts a Amazon i obtenir les seves reviews, 
 per a observar quines son les preferencies dels ciutadans durant el confinament.
