@@ -10,6 +10,8 @@ https://www.amazon.es/gp/bestsellers/books?pf_rd_r=3SGMV0M1FJ0N0CB7MQC0&pf_rd_p=
 
 En aquest projecte s'han extret les dades dels 100 libres més venuts i els principals comentaris. Les dades s'enmagatzemen amb dos fitxers .csv.
 
+S'ha de tenir en compte que la llista del top 100 és dinàmica, ja que ha mesura que es compren nous llibres, pot cambiar el ranking. El mateix passa amb les valoracions i els comentaris dels usuaris.
+
 Les dades que s'han obtingut per a cada llibre són: 
 
 - Nom
