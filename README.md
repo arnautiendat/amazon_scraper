@@ -38,10 +38,12 @@ Les dades obtingudes per a cada resenya són:
 - Text
 - Votacions
 
-Amb aquestes dades es preten analitzar tendències a l'hora de comprar segons el moment en el que ens trobem. Per exemple, podem veure que durant el confinament molts dels llibres més venuts són llibres per nens.
+Amb aquestes dades es preten analitzar tendències a l'hora de comprar segons el moment en el que ens trobem. Per exemple, podem veure que durant el confinament molts dels llibres més venuts són llibres per nens. A més a més, amb les dades de reviews, es podria fer més endavant un estudi per exemple, amb xarxes neuronals, per poder entendre els comentaris dels clients sobre cada un dels llibres.
 
 La informació per a crear l'scrapp s'ha obtingut de: 
 
 - Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
 - Subirats, L i Calvo, M. (2019). Web scraping. UOC. 
 
+Released under CC BY-NC-SA 4.0 License. 
+S'ha triat aquesta llicència perquè no se'n pugui fer ús comercial, perquè si s'utilitza ens hagin de donar crèdit, i perquè si es modifica o es comparteix, es faci sota el mateix tipus de llicència.
