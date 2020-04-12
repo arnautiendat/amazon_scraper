@@ -10,7 +10,7 @@ https://www.amazon.es/gp/bestsellers/books?pf_rd_r=3SGMV0M1FJ0N0CB7MQC0&pf_rd_p=
 
 En aquest projecte s'han extret les dades dels 100 libres més venuts i els principals comentaris. Les dades s'enmagatzemen amb dos fitxers .csv.
 
-S'ha de tenir en compte que la llista del top 100 és dinàmica, ja que ha mesura que es compren nous llibres, pot cambiar el ranking. El mateix passa amb les valoracions i els comentaris dels usuaris.
+S'ha de tenir en compte que la llista del top 100 és dinàmica, ja que a mesura que es compren nous llibres, pot cambiar el ranking. El mateix passa amb les valoracions i els comentaris dels usuaris.
 
 Les dades que s'han obtingut per a cada llibre són: 
 
@@ -37,6 +37,8 @@ Les dades obtingudes per a cada resenya són:
 - Data
 - Text
 - Votacions
+
+Amb aquestes dades es preten analitzar tendències a l'hora de comprar segons el moment en el que ens trobem. Per exemple, podem veure que durant el confinament molts dels llibres més venuts són llibres per nens.
 
 La informació per a crear l'scrapp s'ha obtingut de: 
 
